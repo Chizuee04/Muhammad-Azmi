@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Beranda</title>
+<link rel="stylesheet" href="asets/style.css" type="text/css">
+</head>
+<body>
+
+<div id="wrapper">
+	<div id="container">
+		<header><img src="images/HEADER.jpg"></header>
+		<nav>
+			<ul>
+				<li><a href="index.php">Beranda</a></li>
+				<li><a href="#">Artikel</a></li>
+				<li><a href="#">Profil</a>
+					<ul class="submenu">
+						<li><a href="#">Hub Kami</a></li>
+						<li><a href="#">Tentang Kami</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+		<article>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baca Selengkapnya - EVOS GLORY</title>
+</head>
+<body>
+
+  <h2>EVOS GLORY</h2>
+  <img src="images/article3.jpg" width="150" height="150" alt="Logo EVOS GLORY" 
+  <p><strong>EVOS GLORY</strong>  EVOS Glory adalah divisi Mobile Legends: Bang Bang dari organisasi esports Indonesia EVOS Esports.</p> 
+  <p>berdiri pada tahun 2016 dan dikenal dengan julukan <em>"Macan Putih"</em>,EVOS Glory mulai menarik perhatian besar setelah menjuarai MPL Indonesia Season 4 dan mencapai puncak kejayaan dengan meraih gelar juara dunia M1 World Championship 2019 <strong>EVOS FAMS</strong>. menjadikan mereka tim Indonesia pertama yang menjuarai turnamen dunia Mobile Legends. Tim ini dikenal dengan permainan disiplin, mental juara, serta diperkuat oleh pemain-pemain legendaris seperti Oura, Donkey, Wannn, Luminaire, Rekt, dan Clover, didukung oleh basis penggemar besar bernama EVOS Fams, sehingga EVOS Glory tetap menjadi salah satu tim paling bersejarah dan berpengaruh dalam perkembangan esports Mobile Legends di Indonesia meskipun mengalami pasang surut prestasi di berbagai musim..</p>
+
+  </div>
+			
+		</article>
+		<aside>
+			<li class="widget">
+				<h2>Berita Populer</h2>
+					<ul>
+						<li><a href="#">ONIC ESPORTS Juara terbanyak MPL ID</a></li>
+					</ul>
+			</li>
+			<li class="widget">
+				<h2>Artikel Populer</h2>
+					<ul>
+						<li><a href="#">Artikel 1</a></li>
+						<li><a href="#">Artikel 2</a></li>
+						<li><a href="#">Artikel 3</a></li>
+					</ul>
+			</li>
+			<li class="widget">
+				<h2>Berita Selanjutnya</h2>
+					<ul>
+						<li><a href="#">M7 INDOPRIDE</a></li>
+					</ul>
+			</li>
+
+  <p><a href="index.php">← Kembali ke Beranda</a></p>
+
+</body>
+</html>
